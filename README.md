@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution]()
-- Live Site URL: [Live site]()
+- Live Site URL: [Live site](https://ilham-bouk.github.io/Time_tracking_dashboard/)
 
 ## My process
 
@@ -49,9 +49,6 @@ Users should be able to:
 ### What I learned
 
 ```js
-ulLis.forEach((liRemov) => liRemov.classList.remove("active"));
-```
-```js
 ulLis.forEach((li) => {
   li.onclick = function () {
     ulLis.forEach((liRemov) => liRemov.classList.remove("active"));
@@ -64,7 +61,6 @@ ulLis.forEach((li) => {
   }
 })
 ```
-
 
 ### Continued development
 
