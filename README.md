@@ -28,11 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot of the solution](./design/Screenshot.png)
+![screenshot of the solution](./design/SolutionScreenshot.png)
 
 ### Links
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/time-tracking-dashboard-Hh_Kk3Wmw8)
 - Live Site URL: [Live site](https://ilham-bouk.github.io/Time_tracking_dashboard/)
 
 ## My process
@@ -75,6 +75,6 @@ ulLis.forEach((li) => {
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on [my solution](). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on [my solution](https://www.frontendmentor.io/solutions/time-tracking-dashboard-Hh_Kk3Wmw8). It definitely helps to find new ways to code and find easier solutions!
 
 **Happy coding!** ☺️🚀
